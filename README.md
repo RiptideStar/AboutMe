@@ -11,6 +11,7 @@ kyle100@wharton.upenn.edu |
 * Wharton Hedge Fund Club (WHFC) Quant Macro Team
 * Advisory Board member for Wharton Undergraduate Founders and Funders Association (WUFFA)
 * US FTX Quant Trading Competition
+* Wharton Undergraduate Finance & Technology Group (WUFT)
 * Ambassador for [Meet an M&T](<https://fisher.wharton.upenn.edu/apply/meet-an-mt/>)
 
 ### DECODE 2022 Technology and Innovation Conference - Program Director, May 2022 - Present
