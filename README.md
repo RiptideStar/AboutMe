@@ -13,6 +13,8 @@ kyle100@wharton.upenn.edu |
 * US FTX Quant Trading Competition
 * Wharton Undergraduate Finance & Technology Group (WUFT)
 * Game Development and Research Club
+* UPenn Student Federal Credit Union Information Systems Committee
+* UPenn Y-Prize Competition runner-up: Bubble @ https://youtu.be/M8corcqc9ZY
 * Ambassador for [Meet an M&T](<https://fisher.wharton.upenn.edu/apply/meet-an-mt/>)
 
 ### DECODE 2022 Technology and Innovation Conference - Program Director, May 2022 - Present
