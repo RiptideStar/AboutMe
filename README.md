@@ -14,7 +14,12 @@ kyle100@wharton.upenn.edu |
 * Wharton Undergraduate Finance & Technology Group (WUFT)
 * Game Development and Research Club
 * UPenn Student Federal Credit Union Information Systems Committee
-* UPenn Y-Prize Competition runner-up: Bubble @ https://youtu.be/M8corcqc9ZY
+* Wharton Undergraduate Fintech Special Project Committee
+* Wharton Undergraduate Entrepreneurship Club Technology Committee
+* Wharton MUSE, the Marketing Undergraduate Student Establishment, Innovation Committee
+* Wharton Asia Exchange Quantitative Global Macro (QGM) Team
+* Penn Innovators in Business marketing and content committees
+* UPenn Y-Prize Competition runner up: Bubble - Solar-powered Drones @ https://youtu.be/M8corcqc9ZY
 * Ambassador for [Meet an M&T](<https://fisher.wharton.upenn.edu/apply/meet-an-mt/>)
 
 ### DECODE 2022 Technology and Innovation Conference - Program Director, May 2022 - Present
