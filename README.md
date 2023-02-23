@@ -19,8 +19,8 @@ kyle100@wharton.upenn.edu |
 * Wharton MUSE, the Marketing Undergraduate Student Establishment, Innovation Committee
 * Wharton Asia Exchange Quantitative Global Macro (QGM) Team
 * Penn Innovators in Business marketing and content committees
-* UPenn Y-Prize Competition runner up: Bubble - Solar-powered Drones @ https://youtu.be/M8corcqc9ZY
-* Ambassador for [Meet an M&T](<https://fisher.wharton.upenn.edu/apply/meet-an-mt/>)
+* UPenn Y-Prize Competition runner up: [Bubble - Solar-Powered Drones](https://youtu.be/M8corcqc9ZY)
+* Ambassador for [Meet an M&T](https://fisher.wharton.upenn.edu/apply/meet-an-mt/)
 
 ### DECODE 2022 Technology and Innovation Conference - Program Director, May 2022 - Present
   * [DECODE](https://www.decode.build/) is a non-profit organization with a mission to democratize knowledge and opportunities around the future of work in tech and entrepreneurship, and bridge academia with industry.
