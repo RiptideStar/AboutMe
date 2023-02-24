@@ -18,7 +18,7 @@ kyle100@wharton.upenn.edu |
 * Wharton MUSE, the Marketing Undergraduate Student Establishment, Innovation Committee
 * Wharton Asia Exchange Quantitative Global Macro (QGM) Team
 * Penn Innovators in Business marketing and content committees
-* UPenn Y-Prize Competition runner up: [Bubble - Solar-Powered Drones](https://youtu.be/M8corcqc9ZY)
+* UPenn Y-Prize Startup Competition runner up: [Bubble - Solar-Powered Drones](https://youtu.be/M8corcqc9ZY)
 * Ambassador for [Meet an M&T](https://fisher.wharton.upenn.edu/apply/meet-an-mt/)
 
 ### DECODE 2022 Technology and Innovation Conference - Program Director, May 2022 - Present
