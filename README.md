@@ -11,7 +11,7 @@ kyle100@wharton.upenn.edu |
 * Wharton Hedge Fund Club (WHFC) Quant Macro Team
 * Advisory Board member for Wharton Undergraduate Founders and Funders Association (WUFFA)
 * US FTX Quant Trading Competition
-* Game Development and Research Club
+* UPenn Game Development and Research Club
 * UPenn Student Federal Credit Union Information Systems Committee
 * Wharton Undergraduate Fintech (WUFT) Special Project Committee
 * Wharton Undergraduate Entrepreneurship Club Technology Committee
