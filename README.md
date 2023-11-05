@@ -7,6 +7,24 @@ kyle100@wharton.upenn.edu |
 
 ## Experience
 
+### Carenostics Philadelphia, PA. Product Development Intern May 2023 – August 2023
+* Executed comprehensive QA analysis for physicians at Hackensack Meridian Health, verifying and refining the accuracy of machine learning models to ensure reliable predictions and decisions.
+* Leveraged Google Cloud BigQuery and Compute Engine to write sophisticated code, calculating and processing large-scale data for enhanced efficiency and insights.
+* Initiated and led the QA Automation Project at Carenostics, identifying the potential for automation to save both time and resources for the startup.
+○ Outlined and conveyed the vision to the R&D department, collaborating with engineers to design an automation tool that eliminates the need for human oversight in the QA process, resulting in significant time and cost savings.
+* Utilized SQL to extract and analyze specific data on patients, medications, drugs, and dosages, enabling targeted insights and personalized care approaches.
+
+### Irrational Capital Philadelphia, PA. ML and Quantitative Research Intern May 2023 – August 2023
+* Spearheaded and directed the Title Conversion Project, leading researchers in NLP analysis of over 100k Glassdoor job postings within Fortune 500 companies. The insights gained directly informed R&D efforts, enhancing strategies that resulted in a 15% improvement in predictive accuracy, contributing to better investment decisions for both the firm and its clients.
+* Played a key role in refining four behavioral science and mathematical-based trading strategies, coarse and fine-tuning the models after conducting comprehensive comparisons using 15+ statistical metrics to evaluate performance and effectiveness, contributing to informed decision-making and strategy optimization.
+
+### Co-Founder & Full Stack Developer, Valorant Web Service <https://LineupsValorant.com/>, July 2021 - Present
+  * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
+  * Founded, designed and developed the innovative platform to address a huge pain point for the Valorant video game community to revolutionize how players create, share and search for lineups.
+  * The web service provides interactive dynamic real-time supports for millions players in the Valorant community.
+  * Since the launch on 4/30/2022, we have averaged about 5k active users / day.
+  * More info (PPT) @ <http://t.ly/8gOZ>
+
 ### UPenn / Wharton Experiences - August 2022 - Present
 * Wharton Hedge Fund Club (WHFC) Quant Macro Team
 * Advisory Board member for Wharton Undergraduate Founders and Funders Association (WUFFA)
@@ -27,13 +45,6 @@ kyle100@wharton.upenn.edu |
   * Directing the program team for the 2022 Decode Conference & cooperate the program with the teams of partnerships/sponsorships, community and operations
   * As a University of Pennsylvania student and one of DECODE's first direct connections towards the east coast, I serve a bonus role of unifying the east and west coast of startups, companies, and academia.
   * Conference will be held on November 5 (@ UC Berkeley) and November 6 (@ Stanford)
-
-### Co-Founder & Full Stack Developer, Valorant Web Service <https://LineupsValorant.com/>, July 2021 - Present
-  * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
-  * Founded, designed and developed the innovative platform to address a huge pain point for the Valorant video game community to revolutionize how players create, share and search for lineups.
-  * The web service provides interactive dynamic real-time supports for millions players in the Valorant community.
-  * Since the launch on 4/30/2022, we have averaged about 5k active users / day.
-  * More info (PPT) @ <http://t.ly/8gOZ>
 
 ### Quant & Strategy Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
