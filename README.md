@@ -19,11 +19,9 @@ kyle100@wharton.upenn.edu |
 * Played a key role in refining four behavioral science and mathematical-based trading strategies, coarse and fine-tuning the models after conducting comprehensive comparisons using 15+ statistical metrics to evaluate performance and effectiveness, contributing to informed decision-making and strategy optimization.
 
 ### Co-Founder & Full Stack Developer, Valorant Web Service <https://LineupsValorant.com/>, July 2021 - Present
-  * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
-  * Founded, designed and developed the innovative platform to address a huge pain point for the Valorant video game community to revolutionize how players create, share and search for lineups.
-  * The web service provides interactive dynamic real-time supports for millions players in the Valorant community.
-  * Since the launch on 4/30/2022, we have averaged about 5k active users / day.
-  * More info (PPT) @ <http://t.ly/8gOZ>
+* Spearheaded the founding, design, and development of the groundbreaking platform that addresses a significant pain point for the Valorant gaming community, revolutionizing how players create, share, and search for lineups.
+* The platform has provided interactive, dynamic, and real-time support to over hundreds of thousands of Valorant players worldwide, resulting in a significant increase in player engagement and improved gameplay experience. We have averaged 5k active users/day & [6k Upvotes on Reddit](http://t.ly/qdNm)
+* More info (PPT) @ http://t.ly/8gOZ
 
 ### UPenn / Wharton Experiences - August 2022 - Present
 * Wharton Hedge Fund Club (WHFC) Quant Macro Team
