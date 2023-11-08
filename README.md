@@ -15,7 +15,7 @@ kyle100@wharton.upenn.edu |
 * Utilized SQL to extract and analyze specific data on patients, medications, drugs, and dosages, enabling targeted insights and personalized care approaches.
 
 ### Irrational Capital Philadelphia, PA. ML and Quantitative Research Intern May 2023 – August 2023
-* Spearheaded and directed the Title Conversion Project, leading researchers in NLP analysis of over 100k Glassdoor job postings within Fortune 500 companies. The insights gained directly informed R&D efforts, enhancing strategies that resulted in a 15% improvement in predictive accuracy, contributing to better investment decisions for both the firm and its clients.
+* Directed the Title Conversion Project, leading researchers in NLP analysis of over 100k Glassdoor job postings within Fortune 500 companies. The insights gained directly informed R&D efforts, enhancing strategies that resulted in a 15% improvement in predictive accuracy, contributing to better investment decisions for both the firm and its clients.
 * Played a key role in refining four behavioral science and mathematical-based trading strategies, coarse and fine-tuning the models after conducting comprehensive comparisons using 15+ statistical metrics to evaluate performance and effectiveness, contributing to informed decision-making and strategy optimization.
 
 ### Co-Founder & Full Stack Developer, Valorant Web Service <https://LineupsValorant.com/>, July 2021 - Present
