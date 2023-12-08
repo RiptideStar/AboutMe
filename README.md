@@ -114,7 +114,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
     MS in Computer Science, PennEngineering
 
 #### Lake Oswego High School, Lake Oswego, OR. May 2022
-    Weighted GPA: 4.47, Unweighted GPA: 4.0 (all A's)
+    Weighted GPA: 4.47, Unweighted GPA: 4.0
 
 #### Computer Science, Portland Community College, OR, 2019 - present
     CS140, CS160, CS161, CS162, CS179, CS233, CS250, CIS284, CS260, CIS275, EC201, EC202, MTH261
@@ -125,7 +125,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 #### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
 
 ## My Awards
-* FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
+* 2023 UPenn Y-Prize Startup Competition Award
 * 2022 Coca-Cola Scholars Semifinalist
 * 2022 Duke University Robertson Leadership Scholars Semifinalist
 * 2022 University of Oregon Stamps Scholars Semifinalist
@@ -136,6 +136,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * Portland Community College President's List 2020, 2021, 2022
 * AP Scholar with Honor and Distinction, 2019, 2020, 2021
 * Tennis Sectionals Champion, 2018, 2019
+* FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
 * CFAP Youth Council Community Service Award, 2021
 * Lake Oswego High School Honor Roll, 2019, 2020, 2021
 * 2022 Scholastic Art & Writing Awards, Silver Key for Personal Essay
