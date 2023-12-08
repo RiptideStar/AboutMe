@@ -7,14 +7,14 @@ kyle100@wharton.upenn.edu |
 
 ## Experience
 
-### Carenostics Philadelphia, PA. Product Development Intern May 2023 – August 2023
+### Carenostics, Philadelphia, PA. Product Development Intern May 2023 – August 2023
 * Executed comprehensive QA analysis for physicians at Hackensack Meridian Health, verifying and refining the accuracy of machine learning models to ensure reliable predictions and decisions.
 * Leveraged Google Cloud BigQuery and Compute Engine to write sophisticated code, calculating and processing large-scale data for enhanced efficiency and insights.
 * Initiated and led the QA Automation Project at Carenostics, identifying the potential for automation to save both time and resources for the startup.
 ○ Outlined and conveyed the vision to the R&D department, collaborating with engineers to design an automation tool that eliminates the need for human oversight in the QA process, resulting in significant time and cost savings.
 * Utilized SQL to extract and analyze specific data on patients, medications, drugs, and dosages, enabling targeted insights and personalized care approaches.
 
-### Irrational Capital Philadelphia, PA. ML and Quantitative Research Intern May 2023 – August 2023
+### Irrational Capital, Philadelphia, PA. ML and Quantitative Research Intern May 2023 – August 2023
 * Directed the Title Conversion Project, leading researchers in NLP analysis of over 100k Glassdoor job postings within Fortune 500 companies. The insights gained directly informed R&D efforts, enhancing strategies that resulted in a 15% improvement in predictive accuracy, contributing to better investment decisions for both the firm and its clients.
 * Played a key role in refining four behavioral science and mathematical-based trading strategies, coarse and fine-tuning the models after conducting comprehensive comparisons using 15+ statistical metrics to evaluate performance and effectiveness, contributing to informed decision-making and strategy optimization.
 
