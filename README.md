@@ -24,18 +24,22 @@ kyle100@wharton.upenn.edu |
 * More info (PPT) @ http://t.ly/8gOZ
 
 ### UPenn / Wharton Experiences - August 2022 - Present
+* M&T Innovation Fund Project Manager
+* Wharton Undergraduate Entrepreneurship Club Technology Committee
+* UPenn Machine Learning Research Business Development Committee
 * Wharton Hedge Fund Club (WHFC) Quant Macro Team
 * Advisory Board member for Wharton Undergraduate Founders and Funders Association (WUFFA)
 * US FTX Quant Trading Competition
-* UPenn Game Development and Research Club
+* UPenn Game Development and Research Club Development Lead
 * UPenn Student Federal Credit Union Information Systems Committee
 * Wharton Undergraduate Fintech (WUFT) Special Project Committee
-* Wharton Undergraduate Entrepreneurship Club Technology Committee
 * Wharton MUSE, the Marketing Undergraduate Student Establishment, Innovation Committee
 * Wharton Asia Exchange Quantitative Global Macro (QGM) Team
 * Penn Innovators in Business marketing and content committees
 * UPenn Y-Prize Startup Competition runner up: [Bubble - Solar-Powered Drones](https://youtu.be/M8corcqc9ZY)
 * Ambassador for [Meet an M&T](https://fisher.wharton.upenn.edu/apply/meet-an-mt/)
+* Athlete: UPenn Tennis
+* UPenn Autism Alliance Tennis Coach and Mentor
 
 ### DECODE 2022 Technology and Innovation Conference - Program Director, May 2022 - Present
   * [DECODE](https://www.decode.build/) is a non-profit organization with a mission to democratize knowledge and opportunities around the future of work in tech and entrepreneurship, and bridge academia with industry.
